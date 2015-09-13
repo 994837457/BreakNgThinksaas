@@ -1,0 +1,9 @@
+<h2>夢想管理</h2>
+<div class="tabnav">
+<ul>
+<li {if $mg=='options'}class="select"{/if}><a href="{SITE_URL}index.php?app=article&ac=admin&mg=options">夢想配置</a></li>
+<li {if $mg=='cate' && $ts=='list'}class="select"{/if}><a href="{SITE_URL}index.php?app=article&ac=admin&mg=cate&ts=list">分类列表</a></li>
+<li {if $mg=='cate' && $ts=='add'}class="select"{/if}><a href="{SITE_URL}index.php?app=article&ac=admin&mg=cate&ts=add">新建分类</a></li>
+<li {if $mg=='post' && $ts=='list'}class="select"{/if}><a href="{SITE_URL}index.php?app=article&ac=admin&mg=post&ts=list">夢想列表</a></li>
+</ul>
+</div>

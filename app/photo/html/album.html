@@ -1,0 +1,44 @@
+{template header}
+<div>
+<div class="panel panel-default">
+<div class="panel-body">
+<h1>{$title}</h1>
+<div>
+{if $strAlbum[userid] == $TS_USER[userid] || $TS_USER[isadmin]==1}    &nbsp;&gt;&nbsp;<a href="{SITE_URL}index.php?app=photo&ac=album&ts=edit&albumid={$strAlbum[albumid]}">修改圖属性</a>
+&nbsp;&gt;&nbsp;<a href="{SITE_URL}index.php?app=photo&ac=upload&albumid={$strAlbum[albumid]}">添加照片</a>
+{if $strAlbum[count_photo]>'0'}&nbsp;&gt;&nbsp;<a href="{SITE_URL}index.php?app=photo&ac=album&ts=info&albumid={$strAlbum[albumid]}">批量修改</a>{/if}{/if}
+&nbsp;&gt;&nbsp;<a href="{tsUrl('photo','album',array(ts=>user,userid=>$strAlbum[userid]))}">返回{if $strAlbum[userid] == $TS_USER[userid]}我{else}{$strUser[username]}{/if}的圖首页</a>
+</div>
+<div class="row">
+{if $arrPhoto}
+{loop $arrPhoto $key $item}
+<div class="col-sm-6 p3">
+<div class="thumbnail">
+<a href="{tsUrl('photo','show',array('id'=>$item[photoid]))}"><img src="{php echo tsXimg($item[photourl],'photo',300,'300',$item[path],1)}" alt="{$strAlbum['albumname']}{$item['photoname']}" class="p3"></a>
+<div class="caption">
+</div>
+</div>
+</div>
+{/loop}
+{else}
+<br>
+<div class="pl">这个圖现在还没有照片
+{if $strAlbum[userid] == $TS_USER[userid]}, 你可以<a href="{SITE_URL}index.php?app=photo&ac=upload&albumid={$strAlbum[albumid]}">添加照片</a>{/if}
+</div>
+<br>
+{/if}
+</div>
+<div class="page">{$pageUrl}</div>
+<div>{$strAlbum[albumdesc]}</div>
+<div>
+{$strAlbum[count_view]} 人浏览
+{$strAlbum[count_photo]}&nbsp;张照片
+&nbsp;{$strAlbum[addtime]}&nbsp;创建
+{if $strAlbum[userid] == $TS_USER[userid] || $TS_USER[isadmin]==1}
+&nbsp;&gt;&nbsp;<a  class="j a_confirm_link" rel="nofollow" href="{SITE_URL}index.php?app=photo&ac=album&ts=del&albumid={$strAlbum[albumid]}">删除圖</a>
+{/if}
+</div>
+</div>
+</div>
+</div>
+{template footer}

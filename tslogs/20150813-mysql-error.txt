@@ -1,0 +1,100 @@
+TIME:2015-08-13 :06:42:20
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-08-13 :06:42:20
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-08-13 :13:10:13
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/12
+--------------------------------------
+TIME:2015-08-13 :13:10:13
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '云浮'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/12
+--------------------------------------
+TIME:2015-08-13 :13:12:15
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/12
+--------------------------------------
+TIME:2015-08-13 :13:12:15
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '云浮'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/12
+--------------------------------------
+TIME:2015-08-13 :13:19:01
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/12
+--------------------------------------
+TIME:2015-08-13 :13:19:01
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '云浮'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/12
+--------------------------------------
+TIME:2015-08-13 :16:10:25
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/1
+--------------------------------------
+TIME:2015-08-13 :16:10:25
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/1
+--------------------------------------
+TIME:2015-08-13 :18:11:36
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/1
+--------------------------------------
+TIME:2015-08-13 :18:11:36
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/1
+--------------------------------------
+TIME:2015-08-13 :21:02:39
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/followed/2
+--------------------------------------
+TIME:2015-08-13 :21:02:39
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/followed/2
+--------------------------------------
+TIME:2015-08-13 :23:09:15
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-08-13 :23:09:15
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-08-13 :23:23:12
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/1
+--------------------------------------
+TIME:2015-08-13 :23:23:12
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/1
+--------------------------------------
+TIME:2015-08-13 :23:26:27
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/followed/1
+--------------------------------------
+TIME:2015-08-13 :23:26:27
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/followed/1
+--------------------------------------

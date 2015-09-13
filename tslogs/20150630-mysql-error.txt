@@ -1,0 +1,230 @@
+TIME:2015-06-30 :00:20:29
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/followed/1
+--------------------------------------
+TIME:2015-06-30 :00:20:29
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/followed/1
+--------------------------------------
+TIME:2015-06-30 :00:57:04
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/guestbook/19
+--------------------------------------
+TIME:2015-06-30 :00:57:04
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/guestbook/19
+--------------------------------------
+TIME:2015-06-30 :01:06:01
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-06-30 :01:06:01
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-06-30 :01:06:51
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-06-30 :01:06:51
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-06-30 :01:43:50
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-06-30 :01:43:50
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-06-30 :01:44:01
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/2
+--------------------------------------
+TIME:2015-06-30 :01:44:01
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/2
+--------------------------------------
+TIME:2015-06-30 :03:19:52
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/19
+--------------------------------------
+TIME:2015-06-30 :03:19:52
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/19
+--------------------------------------
+TIME:2015-06-30 :04:08:22
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/19
+--------------------------------------
+TIME:2015-06-30 :04:08:22
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/19
+--------------------------------------
+TIME:2015-06-30 :06:12:21
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/guestbook/1
+--------------------------------------
+TIME:2015-06-30 :06:12:21
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/guestbook/1
+--------------------------------------
+TIME:2015-06-30 :06:56:09
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/followed/19
+--------------------------------------
+TIME:2015-06-30 :06:56:09
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/followed/19
+--------------------------------------
+TIME:2015-06-30 :06:56:14
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/19
+--------------------------------------
+TIME:2015-06-30 :06:56:14
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/19
+--------------------------------------
+TIME:2015-06-30 :06:56:19
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/guestbook/19
+--------------------------------------
+TIME:2015-06-30 :06:56:19
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/guestbook/19
+--------------------------------------
+TIME:2015-06-30 :08:35:13
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/19
+--------------------------------------
+TIME:2015-06-30 :08:35:13
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/19
+--------------------------------------
+TIME:2015-06-30 :14:34:02
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2/
+--------------------------------------
+TIME:2015-06-30 :14:34:02
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2/
+--------------------------------------
+TIME:2015-06-30 :16:18:16
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-06-30 :16:18:16
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-06-30 :16:18:28
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-06-30 :16:18:28
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-06-30 :16:25:14
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/1/
+--------------------------------------
+TIME:2015-06-30 :16:25:14
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/1/
+--------------------------------------
+TIME:2015-06-30 :16:27:42
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/followed/2/
+--------------------------------------
+TIME:2015-06-30 :16:27:42
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/followed/2/
+--------------------------------------
+TIME:2015-06-30 :16:28:05
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/2/
+--------------------------------------
+TIME:2015-06-30 :16:28:05
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/2/
+--------------------------------------
+TIME:2015-06-30 :16:28:28
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/2/
+--------------------------------------
+TIME:2015-06-30 :16:28:28
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/2/
+--------------------------------------
+TIME:2015-06-30 :16:28:50
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/2/
+--------------------------------------
+TIME:2015-06-30 :16:28:50
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/2/
+--------------------------------------
+TIME:2015-06-30 :19:25:42
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-06-30 :19:25:42
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-06-30 :23:05:26
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/guestbook/1
+--------------------------------------
+TIME:2015-06-30 :23:05:26
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/guestbook/1
+--------------------------------------

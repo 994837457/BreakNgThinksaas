@@ -1,0 +1,43 @@
+<div class="facebox">
+<div class="bc">
+<div class="face">
+<a href="{tsUrl('user','space',array('id'=>$strUser['userid']))}" rel="face" uid="$strUser[userid]"><img title="{$strUser[username]}" alt="{$strUser[username]}" src="{$strUser[face]}" width="100"></a>
+</div>
+<div class="info">
+<h3>{$strUser[username]}</h3>
+<ul>
+<li>
+</li>
+</ul>
+<div class="gf">
+{if $strUser[userid] != $TS_USER[userid]}
+{if $strUser[isfollow]}
+<a class="btn btn-default" href="javascript:void('0');" onclick="unfollow('{$strUser['userid']}','{$_SESSION['token']}');">取消关注</a>
+{else}
+<a class="btn btn-default" href="javascript:void('0')" onclick="follow('{$strUser['userid']}','{$_SESSION['token']}');">关注</a>
+{/if}
+<a class="btn btn-default" href="{tsUrl('user','message',array(ts=>add,touserid=>$strUser[userid]))}" rel="nofollow">享言</a>
+{else}
+{/if}
+</div>
+</div>
+<ul class="other">
+<li class="br"><span class="fs14"><a href="{tsUrl('user','group',array('id'=>$strUser['userid']))}">{$strUser['count_group']}</a></span><br />文化</li>
+<li><span class="fs14"><a href="{tsUrl('user','follow',array('id'=>$strUser['userid']))}">{$strUser['count_follow']}</a></span><br />关注</li>
+<li class="br"><span class="fs14"><a href="{tsUrl('user','followed',array('id'=>$strUser['userid']))}">{$strUser['count_followed']}</a></span><br />粉丝</li>
+</ul>
+<div class="fmore">
+{if $strUser[signed]}{php echo nl2br(htmlspecialchars($strUser[signed]))}<br />{elseif $strUser[userid] == $TS_USER[userid]}签名：亲~还没有签名，赶快去写一个吧<br />{/if}
+{if $arrTag}
+<ul><li class="tags">
+{loop $arrTag $key $item}
+<a>{$item[tagname]}</a>
+{/loop}</li></ul>
+{/if}
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<!--广告位-->
+{php doAction('gobad','300')}

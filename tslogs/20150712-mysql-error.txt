@@ -1,0 +1,415 @@
+TIME:2015-07-12 :01:05:57
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :01:05:57
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :01:06:19
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :01:06:19
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :01:31:45
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/12
+--------------------------------------
+TIME:2015-07-12 :01:31:45
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '云浮'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/12
+--------------------------------------
+TIME:2015-07-12 :01:42:55
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/12
+--------------------------------------
+TIME:2015-07-12 :01:42:55
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '云浮'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/12
+--------------------------------------
+TIME:2015-07-12 :03:06:46
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/12
+--------------------------------------
+TIME:2015-07-12 :03:06:46
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '云浮'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/12
+--------------------------------------
+TIME:2015-07-12 :05:48:51
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/5
+--------------------------------------
+TIME:2015-07-12 :05:48:51
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/5
+--------------------------------------
+TIME:2015-07-12 :05:48:53
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/6
+--------------------------------------
+TIME:2015-07-12 :05:48:53
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/6
+--------------------------------------
+TIME:2015-07-12 :05:48:55
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/7
+--------------------------------------
+TIME:2015-07-12 :05:48:55
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/7
+--------------------------------------
+TIME:2015-07-12 :05:48:57
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/8
+--------------------------------------
+TIME:2015-07-12 :05:48:57
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/8
+--------------------------------------
+TIME:2015-07-12 :09:21:17
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :09:21:17
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :09:34:27
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-12 :09:34:27
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-12 :10:48:02
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2/
+--------------------------------------
+TIME:2015-07-12 :10:48:02
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2/
+--------------------------------------
+TIME:2015-07-12 :10:52:12
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/1
+--------------------------------------
+TIME:2015-07-12 :10:52:12
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/1
+--------------------------------------
+TIME:2015-07-12 :11:01:00
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/guestbook/12
+--------------------------------------
+TIME:2015-07-12 :11:01:00
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '云浮'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/guestbook/12
+--------------------------------------
+TIME:2015-07-12 :12:42:08
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/29
+--------------------------------------
+TIME:2015-07-12 :12:42:08
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '广州'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/29
+--------------------------------------
+TIME:2015-07-12 :15:48:07
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-12 :15:48:07
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-12 :15:48:20
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-12 :15:48:20
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-12 :15:49:34
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :15:49:34
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :15:49:41
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :15:49:41
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-12 :18:05:11
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 20
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:11
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183183' and `count_view`>'0' and `addtime`<'1436695183' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:12
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183188' and `count_view`>'0' and `addtime`<'1436695188' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:12
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183174' and `count_view`>'0' and `addtime`<'1436695174' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:12
+SQL:INSERT INTO mo_message (userid,touserid,content,addtime) VALUES (0,2,'你的帖子：《杏鲍菇扣西兰花》新增一条评论，快去看看给个回复吧^_^ <br />[SITE_URL]group/topic/308',1436695154)
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/index.php?app=group&ac=do&ts=recomment
+--------------------------------------
+TIME:2015-07-12 :18:05:12
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 20
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:12
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 20
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:12
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183188' and `count_view`>'0' and `addtime`<'1436695188' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:12
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 20
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:12
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183235' and `count_view`>'0' and `addtime`<'1436695235' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:13
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:13
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:13
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:44
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:44
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:44
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:44
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:44
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:44
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:44
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:44
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:44
+SQL:INSERT INTO mo_message (userid,touserid,content,addtime) VALUES (0,2,'有人评论了你在帖子：《杏鲍菇扣西兰花》中的回复，快去看看给个回复吧^_^ <br />[SITE_URL]group/topic/308',1436695544)
+ERROR:MySQL server has gone away
+REQUEST_URI:/index.php?app=group&ac=do&ts=recomment
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183545' and `count_view`>'0' and `addtime`<'1436695545' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:40
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:40
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183545' and `count_view`>'0' and `addtime`<'1436695545' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183545' and `count_view`>'0' and `addtime`<'1436695545' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:46
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183545' and `count_view`>'0' and `addtime`<'1436695545' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:46
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:46
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183545' and `count_view`>'0' and `addtime`<'1436695545' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:46
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:46
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1435183545' and `count_view`>'0' and `addtime`<'1436695545' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:46
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:06:46
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-07-12 :18:05:45
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------

@@ -1,0 +1,630 @@
+TIME:2015-07-10 :00:05:35
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :00:05:35
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :00:05:43
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :00:05:43
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:02:26
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/2
+--------------------------------------
+TIME:2015-07-10 :02:02:26
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/2
+--------------------------------------
+TIME:2015-07-10 :02:17:44
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:17:44
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:18:44
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:18:44
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:19:03
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-10 :02:19:03
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-10 :02:19:28
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1
+--------------------------------------
+TIME:2015-07-10 :02:19:28
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1
+--------------------------------------
+TIME:2015-07-10 :02:19:29
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/2
+--------------------------------------
+TIME:2015-07-10 :02:19:29
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/2
+--------------------------------------
+TIME:2015-07-10 :02:19:32
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/1
+--------------------------------------
+TIME:2015-07-10 :02:19:32
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/1
+--------------------------------------
+TIME:2015-07-10 :02:19:39
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/guestbook/1
+--------------------------------------
+TIME:2015-07-10 :02:19:39
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/guestbook/1
+--------------------------------------
+TIME:2015-07-10 :02:19:41
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1
+--------------------------------------
+TIME:2015-07-10 :02:19:41
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1
+--------------------------------------
+TIME:2015-07-10 :02:19:42
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/2
+--------------------------------------
+TIME:2015-07-10 :02:19:42
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/2
+--------------------------------------
+TIME:2015-07-10 :02:19:43
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/3
+--------------------------------------
+TIME:2015-07-10 :02:19:43
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/3
+--------------------------------------
+TIME:2015-07-10 :02:19:44
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/4
+--------------------------------------
+TIME:2015-07-10 :02:19:44
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/4
+--------------------------------------
+TIME:2015-07-10 :02:19:45
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/5
+--------------------------------------
+TIME:2015-07-10 :02:19:45
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/5
+--------------------------------------
+TIME:2015-07-10 :02:19:45
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/page/6
+--------------------------------------
+TIME:2015-07-10 :02:19:45
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/page/6
+--------------------------------------
+TIME:2015-07-10 :02:19:49
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:19:49
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:21:42
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:21:42
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:21:49
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:21:49
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:25:50
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/1
+--------------------------------------
+TIME:2015-07-10 :02:25:50
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/1
+--------------------------------------
+TIME:2015-07-10 :02:26:07
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :02:26:07
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :03:01:46
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :03:01:46
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :04:35:32
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :04:35:32
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :04:36:12
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :04:36:12
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :07:18:24
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:18:29
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:18:42
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:18:54
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:18:57
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:19:10
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 250 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/250
+--------------------------------------
+TIME:2015-07-10 :07:19:24
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:19:29
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:20:12
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:20:42
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:21:19
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:21:29
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:21:35
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:22:36
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:22:46
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:22:49
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:23:02
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:24:21
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:25:56
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:26:02
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:26:24
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:27:53
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:28:07
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 258 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/258
+--------------------------------------
+TIME:2015-07-10 :07:28:12
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 258 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/258
+--------------------------------------
+TIME:2015-07-10 :07:28:49
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 260 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/260
+--------------------------------------
+TIME:2015-07-10 :07:28:52
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 260 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/260
+--------------------------------------
+TIME:2015-07-10 :07:29:09
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 260 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/260
+--------------------------------------
+TIME:2015-07-10 :07:29:52
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:29:59
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:30:03
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 259 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/259
+--------------------------------------
+TIME:2015-07-10 :07:30:11
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 260 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/260
+--------------------------------------
+TIME:2015-07-10 :07:30:22
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 260 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/260
+--------------------------------------
+TIME:2015-07-10 :07:30:40
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 260 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/260
+--------------------------------------
+TIME:2015-07-10 :07:33:00
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 260 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/260
+--------------------------------------
+TIME:2015-07-10 :07:33:05
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 260 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/260
+--------------------------------------
+TIME:2015-07-10 :07:33:10
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 260 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/260
+--------------------------------------
+TIME:2015-07-10 :07:34:13
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 257 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/257
+--------------------------------------
+TIME:2015-07-10 :07:34:14
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 258 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/258
+--------------------------------------
+TIME:2015-07-10 :07:34:25
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 257 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/257
+--------------------------------------
+TIME:2015-07-10 :07:34:37
+SQL:SELECT * FROM mo_group_topic_comment WHERE `topicid` = 258 ORDER BY support DESC LIMIT 0,15
+ERROR:Unknown column 'support' in 'order clause'
+REQUEST_URI:/group/topic/258
+--------------------------------------
+TIME:2015-07-10 :07:54:47
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :07:54:47
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :07:56:10
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :07:56:10
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :07:56:31
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :07:56:31
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :08:14:51
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :08:14:51
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :10:53:24
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :10:53:24
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :10:53:51
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :10:53:51
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :12:29:00
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :12:29:00
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :15:03:18
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :15:03:18
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :15:03:50
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :15:03:50
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :16:28:46
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/12
+--------------------------------------
+TIME:2015-07-10 :16:28:46
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '云浮'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/12
+--------------------------------------
+TIME:2015-07-10 :19:02:17
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :19:02:17
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :19:39:50
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/1
+--------------------------------------
+TIME:2015-07-10 :19:39:50
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/1
+--------------------------------------
+TIME:2015-07-10 :21:14:12
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/2
+--------------------------------------
+TIME:2015-07-10 :21:14:12
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/2
+--------------------------------------
+TIME:2015-07-10 :23:37:23
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-10 :23:37:23
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/2
+--------------------------------------
+TIME:2015-07-10 :23:37:30
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/2
+--------------------------------------
+TIME:2015-07-10 :23:37:30
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/2
+--------------------------------------
+TIME:2015-07-10 :23:37:36
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/2
+--------------------------------------
+TIME:2015-07-10 :23:37:36
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/2
+--------------------------------------
+TIME:2015-07-10 :23:37:40
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :23:37:40
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1
+--------------------------------------
+TIME:2015-07-10 :23:37:42
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/1
+--------------------------------------
+TIME:2015-07-10 :23:37:42
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/1
+--------------------------------------
+TIME:2015-07-10 :23:56:11
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '广东'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/19
+--------------------------------------
+TIME:2015-07-10 :23:56:11
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '肇庆'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/19
+--------------------------------------

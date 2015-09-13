@@ -1,0 +1,27 @@
+{template header}
+<div class="midder">
+<div class="mc">
+<div class="bbox mh400">
+<h1>与<span >{$strTouser[username]}</span>的享言</h1>
+<div class="usermsg">
+<ul>
+{loop $arrMessage $key $item}
+<li {if $item[userid] == $TS_USER[userid]}class="mysend"{/if}>
+{if $item[userid]==$TS_USER[userid]}<span>{$item[user][username]} {php echo date('Y-m-d H:i:s',$item[addtime])}</span>{else}<span>{$item[user][username]} {php echo date('Y-m-d H:i:s',$item[addtime])}</span>{/if}
+<br />
+{$item[content]}
+</li>
+{/loop}
+</ul>
+</div>
+<div class="sendbox">
+<p><textarea id="boxcontent"></textarea> </p>
+<p>
+<span id="sendbutton" style="display:block;"><a class="btn" href="javascript:void('0');" onclick="window.parent.sendmsg('{$TS_USER[userid]}','{$strTouser[userid]}');">回應</a></span>
+<span id="loading" style="display:none;">消息送达中<img src="{SITE_URL}app/{$app}/skins/{$skin}/loading.gif" alt="Loading..." /></span>
+</p>
+</div>
+</div>
+</div>
+</div>
+{template footer}

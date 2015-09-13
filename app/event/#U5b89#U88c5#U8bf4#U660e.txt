@@ -1,0 +1,8 @@
+本版本只适合thinksaas2.3
+
+1、解压event.zip得到event目录
+2、复制event目录到thinksaas程序app目录下
+3、通过phpmyadmin或者其他mysql管理工具把event.sql导入到thinksaas的数据库
+4、进入后台开启活动导航
+5、打开浏览器，输入http://你的域名/index.php?app=event即可看到
+6、活动分类请在后台活动管理中设置

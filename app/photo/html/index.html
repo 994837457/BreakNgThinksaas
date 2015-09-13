@@ -1,0 +1,26 @@
+{template header}
+<div>
+<div class="panel panel-default">
+<div class="panel-body">
+{template menu}
+<div class="row">
+{loop $arrAlbum $key $item}
+<div class="col-xs-6 p3">
+<div class="photo">
+<a href="{tsUrl('photo','album',array('id'=>$item[albumid]))}" class="thumbnail">
+<img src="{if $item[albumface] == ''}{SITE_URL}app/{$app}/skins/{$skin}/photo_album.png{else}{php echo tsXimg($item[albumface],'photo',320,'300',$item[path],1)}{/if}" alt="{$item[albumname]}" >
+<p class="caption"> {$item[count_photo]}</p>
+</a>
+<div>
+<h3 style=" bottom: 40px; position: relative;
+"><a href="{tsUrl('photo','album',array('id'=>$item[albumid]))}">{$item[albumname]}</a></h3></div>
+</div>
+</div>
+{/loop}
+</div>
+<div class="clear"></div>
+<div class="page">{$pageUrl}</div>
+</div>
+</div>
+</div>
+{template footer}

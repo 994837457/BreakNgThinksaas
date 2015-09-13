@@ -1,0 +1,91 @@
+
+{template header}
+<style type="text/css">
+@media screen and (max-width:30em){
+#time{display: none;}
+.wrap {
+margin-top: -20px;
+padding: 10px;
+}
+.wb {
+width:40px;
+}
+.ns{width: 100%;height: 250px;}
+.clears{
+padding-bottom: 10px;
+width: 97.5%;
+float: left;
+margin: 5px;
+height: 375px;
+}
+.re_desc {
+white-space: nowrap;
+}
+.ntitle {
+white-space: nowrap;
+font-size: 15px;
+}
+}
+</style>
+<article class="ui">
+{template userinfo}
+</article>
+<div class="container">
+<article class="us">
+<div class="bbox">
+<div class="be">
+{template menu}
+<div class="feed">
+{if $arrFeed}
+<ul>
+{loop $arrFeed $key $item}
+<li class="clears">
+<div class="re_thumb">
+<span class="lp">
+<span>
+<a href="{tsUrl('user','space',array('id'=>$item[user][userid]))}">
+<img class="wb" src="{$item[user][face]}"  alt="{$item['user']['username']}" title="{$item['user']['username']}" />
+</a>
+<a href="{tsUrl('user','space',array('id'=>$item[userid]))}">{$item[user][username]}</a>
+</span>
+</span>
+<span class="rp">
+<span id="time">{php echo getTime($item[addtime],time())}</span>
+<span class="actticle-from"><i class="glyphicon glyphicon-file"></i><a href="{tsUrl('group','show',array('id'=>$item[groupid]))}">{$item[group][groupname]}</a></span>
+<span><i class="glyphicon glyphicon-eye-open like-color"></i>({$item['count_view']})</span>
+<span><i class="glyphicon glyphicon-heart   like-color"></i>({$item['count_recommend']})</span>
+<span><i class="glyphicon glyphicon-comment   like-color"></i>
+<a class="rank"  href="{tsUrl('group','topic',array('id'=>$item[topicid]))}">({$item[count_comment]})</a></span>
+</span><a title="{$item[title]}" href="{tsUrl('group','topic',array('id'=>$item[topicid]))}">
+{if $item['thumb']}<span><img src="{$item[thumb][1]}" class="ns" style="width: 100%;"/></span>{/if}
+<div class="topic_title">
+<div class="ntitle">
+{if $item['appkey'] != 'group' && $item['appkey']!=''}
+<a title="{$item[title]}" href="{SITE_URL}{php echo tsUrl($item['appkey'],$item['appaction'],array('id'=>$item['appid']))}">{$item[title]}</a>
+{else}
+{$item[title]}</a>
+{/if}
+{if $item['postby']==1}<a href="{tsUrl('home','phone')}"><img align="absmiddle" alt="通过Iphone手机端发布" title="通过Iphone手机端发布" src="{SITE_URL}public/images/ios.jpg" /></a>{/if}
+</div>
+<div class="topic_info">
+<div class="re_desc">{$item[desc]}</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</li>
+<div class="clear"></div>
+{/loop}
+</ul>
+{else}
+<li class="tac pd500 c9">哎哟~还没有动态哦</li>
+{/if}
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+{template footer}

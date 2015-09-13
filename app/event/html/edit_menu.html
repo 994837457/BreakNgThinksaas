@@ -1,0 +1,5 @@
+<ul class="nav nav-tabs">
+<li role="presentation" {if $ts=='base'}class="active"{/if}><a href="{tsUrl('event','edit',array('ts'=>'base','eventid'=>$eventid))}">基本信息</a></li>
+<li role="presentation" {if $ts=='join'}class="active"{/if}><a href="{tsUrl('event','edit',array('ts'=>'join','eventid'=>$eventid))}">报名信息</a></li>
+</ul>
+<div style="height:20px;"></div>

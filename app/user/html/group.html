@@ -1,0 +1,28 @@
+{template header}
+<article class="ui">
+{template userinfo}
+</article>
+<div class="container">
+<article class="us">
+<div class="bbox">
+<div class="be">
+{template menu}
+<p></p>
+{loop $arrGroupList $key $item}
+<div class="sub-item">
+<div class="pic">
+<a href="{tsUrl('group','show',array('id'=>$item[groupid]))}">
+<img src="{$item[photo]}" alt="{$item[groupname]}" />
+</a>
+</div>
+<div class="info">
+<a href="{tsUrl('group','show',array('id'=>$item[groupid]))}">{$item[groupname]}</a>  <font color="#999999">{$item[count_user]}人加入</font>
+<p>{php echo t($item[groupdesc])}</p>
+</div>
+</div>
+{/loop}
+</div>
+</div>
+</article>
+</div>
+{template footer}

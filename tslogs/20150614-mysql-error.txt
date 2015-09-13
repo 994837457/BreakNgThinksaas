@@ -1,0 +1,480 @@
+TIME:2015-06-14 :03:05:37
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY uptime desc LIMIT 35
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT * FROM mo_slide  ORDER BY addtime desc
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710088' and `count_view`>'0' and `addtime`<'1434222088' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710076' and `count_view`>'0' and `addtime`<'1434222076' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT * FROM mo_slide  ORDER BY addtime desc
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710021' and `count_view`>'0' and `addtime`<'1434222021' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT * FROM mo_group WHERE `groupid` = '6'  LIMIT 1
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432709846' and `count_view`>'0' and `addtime`<'1434221846' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT * FROM mo_slide  ORDER BY addtime desc
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432709846' and `count_view`>'0' and `addtime`<'1434221846' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432709862' and `count_view`>'0' and `addtime`<'1434221862' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:select groupid from mo_group where isrecommend='1' limit 12
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710022' and `count_view`>'0' and `addtime`<'1434222022' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY uptime desc LIMIT 35
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT * FROM mo_group WHERE `groupid` = '18'  LIMIT 1
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT * FROM mo_group WHERE `groupid` = '15'  LIMIT 1
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710098' and `count_view`>'0' and `addtime`<'1434222098' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432709846' and `count_view`>'0' and `addtime`<'1434221846' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:37
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710092' and `count_view`>'0' and `addtime`<'1434222092' ORDER BY addtime desc LIMIT 10
+ERROR:Lost connection to MySQL server during query
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '8'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '11'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '12'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '14'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '15'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '16'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '17'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '18'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '16'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '17'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `groupid` = '18'  LIMIT 1
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:select groupid from mo_group where isrecommend='1' limit 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY uptime desc LIMIT 35
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY uptime desc LIMIT 35
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:select groupid from mo_group where isrecommend='1' limit 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY uptime desc LIMIT 35
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:select groupid from mo_group where isrecommend='1' limit 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY uptime desc LIMIT 35
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY uptime desc LIMIT 35
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:41
+SQL:SELECT * FROM mo_group WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY uptime desc LIMIT 35
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_group WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_group_topic WHERE `isaudit` = 0 ORDER BY uptime desc LIMIT 35
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_group WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:42
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_article WHERE `isaudit` = 0 ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710343' and `count_view`>'0' and `addtime`<'1434222343' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710343' and `count_view`>'0' and `addtime`<'1434222343' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710343' and `count_view`>'0' and `addtime`<'1434222343' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710343' and `count_view`>'0' and `addtime`<'1434222343' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710343' and `count_view`>'0' and `addtime`<'1434222343' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710343' and `count_view`>'0' and `addtime`<'1434222343' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710343' and `count_view`>'0' and `addtime`<'1434222343' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710343' and `count_view`>'0' and `addtime`<'1434222343' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT topicid,title,count_view,count_comment FROM mo_group_topic WHERE `addtime`>'1432710343' and `count_view`>'0' and `addtime`<'1434222343' ORDER BY addtime desc LIMIT 10
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :03:05:43
+SQL:SELECT * FROM mo_photo_album WHERE `isrecommend` = 1 ORDER BY addtime desc LIMIT 12
+ERROR:MySQL server has gone away
+REQUEST_URI:/
+--------------------------------------
+TIME:2015-06-14 :12:59:33
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/space/1/
+--------------------------------------
+TIME:2015-06-14 :12:59:33
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/space/1/
+--------------------------------------
+TIME:2015-06-14 :15:51:55
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/topic/1/
+--------------------------------------
+TIME:2015-06-14 :15:51:55
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/topic/1/
+--------------------------------------
+TIME:2015-06-14 :15:55:43
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/followed/1/
+--------------------------------------
+TIME:2015-06-14 :15:55:43
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/followed/1/
+--------------------------------------
+TIME:2015-06-14 :15:58:32
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/follow/1/
+--------------------------------------
+TIME:2015-06-14 :15:58:32
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/follow/1/
+--------------------------------------
+TIME:2015-06-14 :16:05:01
+SQL:SELECT * FROM mo_area_province WHERE `provinceid` = '香港'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_province' doesn't exist
+REQUEST_URI:/user/group/1/
+--------------------------------------
+TIME:2015-06-14 :16:05:01
+SQL:SELECT * FROM mo_area_city WHERE `cityid` = '九龙城区'  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_area_city' doesn't exist
+REQUEST_URI:/user/group/1/
+--------------------------------------

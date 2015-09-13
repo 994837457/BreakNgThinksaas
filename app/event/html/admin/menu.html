@@ -1,0 +1,9 @@
+<h2>活动管理</h2>
+<div class="tabnav">
+<ul>
+<li {if $mg=='options'}class="select"{/if}><a href="{SITE_URL}index.php?app=event&ac=admin&mg=options">活动配置</a></li>
+<li {if $mg=='event' && $ts=='list'}class="select"{/if}><a href="{SITE_URL}index.php?app=event&ac=admin&mg=event&ts=list">全部活动</a></li>
+<li {if $mg=='type' && $ts=='list'}class="select"{/if}><a href="{SITE_URL}index.php?app=event&ac=admin&mg=type&ts=list">活动类型</a></li>
+<li {if $mg=='type' && $ts=='add'}class="select"{/if}><a href="{SITE_URL}index.php?app=event&ac=admin&mg=type&ts=add">添加类型</a></li>
+</ul>
+</div>

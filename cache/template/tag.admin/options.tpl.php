@@ -1,0 +1,11 @@
+<?php defined('IN_TS') or die('Access Denied.'); ?><?php include template("admin/header");?>
+
+<!--main-->
+<div class="midder">
+<?php include template("admin/menu");?>
+
+<div>暂无配置文件！</div>
+
+</div>
+
+<?php include template("admin/footer");?>

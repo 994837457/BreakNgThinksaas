@@ -1,0 +1,14 @@
+{php include template("admin/header");}
+<!--main-->
+<div class="midder">
+{php include template("admin/menu");}
+<form method="post" action="{SITE_URL}index.php?app=event&ac=admin&mg=type&ts=editdo">
+<table>
+<tr><td>类型名称:</td><td><input type="text" name="typename"  value="{$strType['typename']}" /></td></tr>
+<tr><td></td><td>
+<input type="hidden" name="typeid" value="{$strType['typeid']}" />
+<input type="submit" value="修改" /></td></tr>
+</table>
+</form>
+</div>
+{php include template("admin/footer");}

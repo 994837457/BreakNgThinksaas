@@ -1,0 +1,25 @@
+[15-Jun-2015 06:36:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[15-Jun-2015 06:36:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[15-Jun-2015 06:36:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[15-Jun-2015 06:36:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[15-Jun-2015 06:36:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[15-Jun-2015 06:37:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[15-Jun-2015 06:37:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[15-Jun-2015 18:35:40 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '(' in /home/breakngc/public_html/cache/template/photo.show.tpl.php on line 2
+[15-Jun-2015 18:36:17 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected ',' in /home/breakngc/public_html/cache/template/photo.show.tpl.php on line 2
+[15-Jun-2015 18:36:31 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected ',' in /home/breakngc/public_html/cache/template/photo.show.tpl.php on line 2
+[16-Jun-2015 06:50:33 Asia/Hong_Kong] PHP Fatal error:  Cannot redeclare newtopics() (previously declared in /home/breakngc/public_html/plugins/pubs/newtopics/newtopics.php:6) in /home/breakngc/public_html/plugins/home/newtopics/newtopics.php on line 27
+[21-Jun-2015 04:25:31 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected ';' in /home/breakngc/public_html/app/photo/action/album.php on line 71
+[21-Jun-2015 04:25:34 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected ';' in /home/breakngc/public_html/app/photo/action/album.php on line 71
+[21-Jun-2015 00:22:17 UTC] PHP Warning:  POST Content-Length of 8910140 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Jun-2015 11:58:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[28-Jun-2015 11:58:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[28-Jun-2015 11:58:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[28-Jun-2015 11:58:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/breakngc/public_html/thinksaas/sql/mysql.php on line 19
+[30-Jun-2015 12:57:20 UTC] PHP Warning:  POST Content-Length of 17013339 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jun-2015 12:58:24 UTC] PHP Warning:  POST Content-Length of 19476290 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Jun-2015 12:59:59 UTC] PHP Warning:  POST Content-Length of 16947261 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Jul-2015 18:31:14 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/breakngc/public_html/cache/template/newtopics.newtopics.tpl.php on line 12
+[03-Jul-2015 19:50:18 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '}' in /home/breakngc/public_html/cache/template/newtopics.newtopics.tpl.php on line 40
+[03-Jul-2015 19:51:27 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '}' in /home/breakngc/public_html/cache/template/newtopics.newtopics.tpl.php on line 34
+[03-Jul-2015 19:51:30 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '}' in /home/breakngc/public_html/cache/template/newtopics.newtopics.tpl.php on line 34

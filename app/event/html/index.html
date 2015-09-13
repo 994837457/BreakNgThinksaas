@@ -1,0 +1,40 @@
+{template header}
+<div class="container">
+<ol class="breadcrumb">
+<li><a href="{SITE_URL}">首页</a></li>
+<li class="active">活动</li>
+</ol>
+<div class="row">
+<div class="col-md-2">
+<div class="list-group">
+<a class="list-group-item active" href="{tsUrl('event')}">全部</a></li>
+{loop $arrType $key $item}
+<a class="list-group-item" href="{tsUrl('event','type',array(id=>$item[typeid]))}">{$item[typename]}</a>
+{/loop}
+</div>
+<p><a class="btn btn-success btn-block" href="{tsUrl('event','add')}">发布活动</a></p>
+</div>
+<div class="col-md-10">
+<div class="panel panel-default">
+<div class="panel-body">
+<div class="row">
+{loop $arrEvent $key $item}
+<div class="col-sm-6">
+<a href="{tsUrl('event','show',array('id'=>$item[eventid]))}"><img src="{if $item[photo]}{php echo tsXimg($item[photo],'event','300','220',$item[path],'1')}{else}{SITE_URL}app/event/skins/default/event.jpg{/if}" alt="{$item[title]}" height="150"></a>
+<div>
+<h3><a href="{tsUrl('event','show',array('id'=>$item[eventid]))}">{php echo cututf8($item[title],0,10,false)}</a></h3>
+<p>开始时间：{php echo date('Y-m-d H:i',strtotime($item[starttime]))} <br />
+结束时间：{php echo date('Y-m-d H:i',strtotime($item[endtime]))}<br>
+{$item[count_userdo]}人参加   {$item[count_userwish]}人感兴趣</p>
+</div>
+</div>
+{/loop}
+</div>
+<div class="clear"></div>
+<div class="page">{$pageUrl}</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+{template footer}

@@ -1,0 +1,11 @@
+<ul class="nav nav-tabs" role="tablist">
+<li role="presentation" {if $ts=="base"}class="active"{/if}><a href="{tsUrl('my','setting',array('ts'=>'base'))}">信息</a></li>
+<li role="presentation" {if $ts=="face" || $ts=='flash'}class="active"{/if}><a href="{tsUrl('my','setting',array('ts'=>'face'))}">头像</a></li>
+<li role="presentation" {if $ts=="pwd"}class="active"{/if}><a href="{tsUrl('my','setting',array('ts'=>'pwd'))}">修改密码</a></li>
+
+<li role="presentation" {if $ts=="email"}class="active"{/if}><a href="{tsUrl('my','setting',array('ts'=>'email'))}">修改帐号</a></li>
+
+<li role="presentation" {if $ts=="city"}class="active"{/if}><a href="{tsUrl('my','setting',array('ts'=>'city'))}">城市</a></li>
+
+<li role="presentation" {if $ts=="tag"}class="active"{/if}><a href="{tsUrl('my','setting',array('ts'=>'tag'))}">标签</a></li>
+</ul>

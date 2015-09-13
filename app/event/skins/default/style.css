@@ -1,0 +1,11 @@
+.eventlist{margin-left:10px;}
+.eventlist ul{}
+.eventlist ul li{float: left;margin:10px;width: 220px;}
+
+.eventlist ul li .title{font-size:14px;}
+.eventlist ul li .info{line-height:25px;color:#999999;}
+
+.event{}
+.event .photo{float:left;width:50%;}
+.event .photo img{max-width:100%;}
+.event .info{margin-left:10px;line-height:25px;float:left;}

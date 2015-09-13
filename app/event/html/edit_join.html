@@ -1,0 +1,44 @@
+{template header}
+{php doAction('tseditor')}
+<div class="container">
+<ol class="breadcrumb">
+<li><a href="{SITE_URL}">首页</a></li>
+<li><a href="{tsUrl('event')}">活动</a></li>
+<li><a href="{tsUrl('event')}">{$strEvent['title']}</a></li>
+<li class="active">报名信息</li>
+</ol>
+<div class="panel panel-default">
+<div class="panel-body">
+{template edit_menu}
+<div class="row">
+<div class="col-md-2"></div>
+<div class="col-md-8">
+<table class="table">
+<thead>
+<tr>
+<th>姓名</th>
+<th>手机</th>
+<th>Email</th>
+<th>QQ</th>
+<th>报名时间</th>
+</tr>
+</thead>
+<tbody>
+{loop $arrUser $key $item}
+<tr>
+<td>{$item['username']}</td>
+<td>{$item['phone']}</td>
+<td>{$item['email']}</td>
+<td>{$item['qq']}</td>
+<td>{php echo date('Y-m-d H:i:s',$item['addtime'])}</td>
+</tr>
+{/loop}
+</tbody>
+</table>
+</div>
+<div class="col-md-2"></div>
+</div>
+</div>
+</div>
+</div>
+{template footer}

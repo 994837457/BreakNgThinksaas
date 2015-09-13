@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+<body>
+<div>
+<form method="get" action="{SITE_URL}index.php">
+<input type="hidden" name="app" value="event" />
+<input type="hidden" name="ac" value="add" />
+<input type="hidden" name="ts" value="map" />
+输入地址：<input type="text" name="dd" value="{$dd}"  />
+<input type="submit" value="搜索" />  
+</form>
+(输入中文地名，鼠标滚轮滚动缩放地图，找到正确的位置点击一下即可)
+</div>
+<div id="mapDiv" style="width:600px;height:400px"></div>
+
+<script language="javascript" src="http://api.ditu.aliyun.com/map.js" charset="utf-8"></script>
+<script language="javascript">
+	var map;
+	function onLoad()
+	{
+		//使用id为mapDiv的层创建一个地图对象
+
+		map=new AliMap("mapDiv");
+
+		//<!--EC_S-->
+
+		//使用北京市的行政区划编码来定位地图
+
+		Jla.require("Ali.Map.Mod.AddressView",3,null,[map,"{$dd}"]);
+
+		AliEvent.addListener(map,"click",onClick);
+		
+		//<!--EC_E-->
+	}
+	Jla.onReady(onLoad);
+	
+//给地图添加滚轮缩放功能
+control=new AliMapMouseWheelControl();
+map.addControl(control);
+	
+//在地图被点击时执行对应的事件
+
+	function onClick(point)
+	{
+		var latlng=map.fromContainerPixelToLatLng(point);
+
+		var str=[];
+
+		//str.push("鼠标点击位置为("+point.x+","+point.y+")");
+
+		//str.push("鼠标点击坐标为("+latlng.lat()+","+latlng.lng()+")");
+
+		//alert(str.join(" "));
+		
+		//javascript:parent.jQuery.id("#gps").val('11111');
+		//javascript:parent.jQuery.find("input[@type='gps']").val("11111");
+		
+		//获取父窗口的函数并关闭窗口
+		self.parent.insertGps(latlng.lat()+","+latlng.lng());
+		javascript:parent.jQuery.fancybox.close();
+		
+	}
+	
+</script>
+</body>
+</html>

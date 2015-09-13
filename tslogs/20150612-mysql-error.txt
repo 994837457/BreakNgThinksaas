@@ -1,0 +1,210 @@
+TIME:2015-06-12 :22:40:32
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:40:32
+SQL:SELECT * FROM mo_event WHERE `isaudit` = 0 ORDER BY isrecommend desc,addtime desc LIMIT 0,12
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:40:32
+SQL:SELECT COUNT(*) AS ts_counter FROM mo_event WHERE `isaudit` = 0
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:40:48
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:40:48
+SQL:SELECT * FROM mo_event WHERE `isaudit` = 0 ORDER BY isrecommend desc,addtime desc LIMIT 0,12
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:40:48
+SQL:SELECT COUNT(*) AS ts_counter FROM mo_event WHERE `isaudit` = 0
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:40:52
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:40:52
+SQL:SELECT * FROM mo_event WHERE `isaudit` = 0 ORDER BY isrecommend desc,addtime desc LIMIT 0,12
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:40:52
+SQL:SELECT COUNT(*) AS ts_counter FROM mo_event WHERE `isaudit` = 0
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:41:06
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:41:06
+SQL:SELECT * FROM mo_event WHERE `isaudit` = 0 ORDER BY isrecommend desc,addtime desc LIMIT 0,12
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:41:06
+SQL:SELECT COUNT(*) AS ts_counter FROM mo_event WHERE `isaudit` = 0
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:41:10
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/event/add
+--------------------------------------
+TIME:2015-06-12 :22:43:26
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=add&ts=do
+--------------------------------------
+TIME:2015-06-12 :22:43:26
+SQL:INSERT INTO mo_event (userid,title,typeid,starttime,endtime,address,coordinate,content,isaudit,addtime) VALUES (1,'測試',0,'2015-06-12 22:43','2015-06-13 22:43','BreakNg','','\n&lt;p&gt;BreakNg&lt;/p&gt;\n',1,1434120206)
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=add&ts=do
+--------------------------------------
+TIME:2015-06-12 :22:43:26
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/event/show/
+--------------------------------------
+TIME:2015-06-12 :22:43:26
+SQL:SELECT * FROM mo_event WHERE `eventid` = 0  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event/show/
+--------------------------------------
+TIME:2015-06-12 :22:43:30
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/event/add
+--------------------------------------
+TIME:2015-06-12 :22:43:44
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=add&ts=do
+--------------------------------------
+TIME:2015-06-12 :22:43:44
+SQL:INSERT INTO mo_event (userid,title,typeid,starttime,endtime,address,coordinate,content,isaudit,addtime) VALUES (1,'測試',0,'2015-06-12 22:43','2015-06-13 22:43','BreakNg','','\n&lt;p&gt;BreakNg&lt;/p&gt;\n',1,1434120224)
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=add&ts=do
+--------------------------------------
+TIME:2015-06-12 :22:43:44
+SQL:UPDATE mo_event SET path = '0/0', photo = '0/0/.jpg' WHERE `eventid` = 0
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=add&ts=do
+--------------------------------------
+TIME:2015-06-12 :22:43:44
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/event/show/
+--------------------------------------
+TIME:2015-06-12 :22:43:44
+SQL:SELECT * FROM mo_event WHERE `eventid` = 0  LIMIT 1
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event/show/
+--------------------------------------
+TIME:2015-06-12 :22:44:30
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:44:30
+SQL:SELECT * FROM mo_event WHERE `isaudit` = 0 ORDER BY isrecommend desc,addtime desc LIMIT 0,12
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:44:30
+SQL:SELECT COUNT(*) AS ts_counter FROM mo_event WHERE `isaudit` = 0
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/event
+--------------------------------------
+TIME:2015-06-12 :22:44:43
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=admin&mg=options
+--------------------------------------
+TIME:2015-06-12 :22:44:46
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=admin&mg=event&ts=list
+--------------------------------------
+TIME:2015-06-12 :22:44:46
+SQL:SELECT * FROM mo_event  ORDER BY addtime desc LIMIT 0,10
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=admin&mg=event&ts=list
+--------------------------------------
+TIME:2015-06-12 :22:44:46
+SQL:SELECT COUNT(*) AS ts_counter FROM mo_event 
+ERROR:Table 'breakngc_mo.mo_event' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=admin&mg=event&ts=list
+--------------------------------------
+TIME:2015-06-12 :22:44:47
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=admin&mg=type&ts=list
+--------------------------------------
+TIME:2015-06-12 :22:44:47
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=admin&mg=type&ts=list
+--------------------------------------
+TIME:2015-06-12 :22:44:49
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=admin&mg=type&ts=add
+--------------------------------------
+TIME:2015-06-12 :22:44:51
+SQL:SELECT * FROM mo_event_type  
+ERROR:Table 'breakngc_mo.mo_event_type' doesn't exist
+REQUEST_URI:/index.php?app=event&ac=admin&mg=options
+--------------------------------------
+TIME:2015-06-12 :22:55:33
+SQL:DELETE FROM mo_user_scores WHERE ( `userid` = 3)
+ERROR:Table 'breakngc_mo.mo_user_scores' doesn't exist
+REQUEST_URI:/user/space/3/
+--------------------------------------
+TIME:2015-06-12 :22:55:33
+SQL:DELETE FROM mo_ask_comment WHERE ( `userid` = 3)
+ERROR:Table 'breakngc_mo.mo_ask_comment' doesn't exist
+REQUEST_URI:/user/space/3/
+--------------------------------------
+TIME:2015-06-12 :22:55:33
+SQL:DELETE FROM mo_ask_comment_add WHERE ( `userid` = 3)
+ERROR:Table 'breakngc_mo.mo_ask_comment_add' doesn't exist
+REQUEST_URI:/user/space/3/
+--------------------------------------
+TIME:2015-06-12 :22:55:33
+SQL:DELETE FROM mo_ask_comment_op WHERE ( `userid` = 3)
+ERROR:Table 'breakngc_mo.mo_ask_comment_op' doesn't exist
+REQUEST_URI:/user/space/3/
+--------------------------------------
+TIME:2015-06-12 :22:55:33
+SQL:DELETE FROM mo_ask_question_add WHERE ( `userid` = 3)
+ERROR:Table 'breakngc_mo.mo_ask_question_add' doesn't exist
+REQUEST_URI:/user/space/3/
+--------------------------------------
+TIME:2015-06-12 :22:55:33
+SQL:DELETE FROM mo_ask_topic WHERE ( `userid` = 3)
+ERROR:Table 'breakngc_mo.mo_ask_topic' doesn't exist
+REQUEST_URI:/user/space/3/
+--------------------------------------
+TIME:2015-06-12 :22:55:33
+SQL:DELETE FROM mo_ask_user_cate WHERE ( `userid` = 3)
+ERROR:Table 'breakngc_mo.mo_ask_user_cate' doesn't exist
+REQUEST_URI:/user/space/3/
+--------------------------------------
+TIME:2015-06-12 :22:55:33
+SQL:DELETE FROM mo_ask_user_score WHERE ( `userid` = 3)
+ERROR:Table 'breakngc_mo.mo_ask_user_score' doesn't exist
+REQUEST_URI:/user/space/3/
+--------------------------------------
